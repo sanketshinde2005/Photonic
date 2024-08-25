@@ -33,11 +33,14 @@ Navigate to the project directory and open the index.html file in your web brows
 ## Webpage Screenshots
 ![Screenshot 2024-08-25 180515](https://github.com/user-attachments/assets/8e846301-813f-4d8a-a838-e4b3893cead7)
 ![Screenshot 2024-08-25 180443](https://github.com/user-attachments/assets/68a2d2e3-2c44-42b2-8a9b-18c800cd9978)
-![Screenshot 2024-08-25 180457](https://github.com/user-attachments/assets/3ed99c09-44c3-4c29-878c-44928b710486)
+![Screenshot 2024-08-25 180523](https://github.com/user-attachments/assets/774adc8a-db66-4f72-bbdd-97a962c0a490)
+
 
 ## Future Enhancements
 Advanced Search Filters: Allow users to filter images by orientation, color, or image type (photo, illustration).
+
 Image Details: Provide a modal or overlay that displays additional information about the image when clicked.
+
 User Authentication: Enable users to log in and save their favorite images or collections.
 
 ## My work

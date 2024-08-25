@@ -31,9 +31,10 @@ Clone the repository to your local machine using: https://github.com/sanketshind
 Navigate to the project directory and open the index.html file in your web browser to view the webpage.
 
 ## Webpage Screenshots
-![Screenshot 2024-08-25 180515](https://github.com/user-attachments/assets/8e846301-813f-4d8a-a838-e4b3893cead7)
-![Screenshot 2024-08-25 180443](https://github.com/user-attachments/assets/68a2d2e3-2c44-42b2-8a9b-18c800cd9978)
 ![Screenshot 2024-08-25 180523](https://github.com/user-attachments/assets/774adc8a-db66-4f72-bbdd-97a962c0a490)
+![Screenshot 2024-08-25 180443](https://github.com/user-attachments/assets/68a2d2e3-2c44-42b2-8a9b-18c800cd9978)
+![Screenshot 2024-08-25 180457](https://github.com/user-attachments/assets/ce14ca6a-a96f-4585-9a31-9e96ba5395a3)
+
 
 
 ## Future Enhancements
